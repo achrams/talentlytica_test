@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/*/js
+bower_components/foo/*.js
